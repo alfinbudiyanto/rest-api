@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Alfin",
+    "umur": 16,
+    "nrp": "012734927",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "Doddy Ferdiansyah",
+      "pembimbing2": "Erik Doank"
+    }
+  },
+  {
+    "nama": "Alfin",
+    "umur": 16,
+    "nrp": "012734927",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "Doddy Ferdiansyah",
+      "pembimbing2": "Erik Doank"
+    }
+  }
+]
